@@ -81,6 +81,14 @@ En este proyecto, vamos a construir un simple, pero funcional rastreador de gast
 
 
 
+###### LOOPS : Bucle
+- **WHILE**
+    - Un bucle while es otro tipo de bucle que ejecuta una porción de código hasta que una condición especificada es True:
+    >while condition:
+    <-- codido -- >
+
+
+- **FOR**
 
 
 
@@ -112,6 +120,11 @@ En Python, **los objetos iterables** son aquellos que podemos recorrer usando un
     - La función **filter()** permite seleccionar elementos de un iterable, como una lista, basándose en la salida de una función:
     - La funcion filter() devuelve un iterador en el que se incluyen los elementos de mi_lista, para los que mi_función devuelve True. Un iterador es un objeto especial que permite iterar sobre los elementos de una colección, como una lista.
     > filter(my_function, my_list)
+
+
+    - La función **input()** recibe una entrada del usuario y la devuelve en forma de cadena.
+
+
     
 
 
